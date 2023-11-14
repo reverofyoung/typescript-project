@@ -1,3 +1,1 @@
 # TypesScript Project
-
-personal
